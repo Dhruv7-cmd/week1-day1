@@ -7,4 +7,3 @@ This repository contains my Week 1 daily progress.
 - Day 3: python functions, Lists, Loops
 - Day 4: Python dictionaries, tuples, and file handling
 - Day 5: Python modules and exception handling
-hello
